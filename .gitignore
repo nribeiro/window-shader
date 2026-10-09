@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+public/wasm/
+public/models/
+test-results/
+playwright-report/
+
+.vite-cache/
+.vite-cache-*/
+
+.DS_Store
