@@ -8,10 +8,9 @@ Includes **11 shaders**, mouse/touch simulation, fullscreen mode and local recor
 
 Declared requirement: **Node >=22.18.0**. The implementation environment used Node **24.18.0** and npm **12.1.0**. Main dependency versions are pinned in `package.json`, with resolved versions in `package-lock.json`: React 19.3.0, Vite 8.3.1, Three.js 0.186.1, MediaPipe Tasks Vision 1.0.1 and TypeScript 7.0.2.
 
-From the directory that contains the project:
+Run the following commands from the project root (the directory containing this README and `package.json`):
 
 ```sh
-cd janela-shader
 npm ci
 npm run dev
 ```
